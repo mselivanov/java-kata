@@ -1,0 +1,8 @@
+apply plugin: 'application'
+
+mainClassName = "com.github.mselivanov.javakata.Main"
+
+group = 'com.github.mselivanov.sharpen'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = 1.8
+
