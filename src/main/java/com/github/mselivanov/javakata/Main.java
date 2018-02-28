@@ -14,5 +14,6 @@ public class Main {
         Class cl = Class.forName(className);        
         Katable k = (Katable)cl.newInstance();
         k.kata();
+        k.recallResult();
     }
 }
