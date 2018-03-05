@@ -6,4 +6,8 @@ public class Day implements Katable {
     public void kata() {
         
     }
+    
+    public void recallResult() {
+    }
+    
 }
